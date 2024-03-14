@@ -1,2 +1,2 @@
 # B.N.T-Chemistry-Classes
-A HTML for a Website.
+An educational Website to study Chemistry with Muzaffarpur's best Chemistry Teacher.
